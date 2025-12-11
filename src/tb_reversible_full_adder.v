@@ -1,4 +1,3 @@
-`timescale 1ns / 1ps
 module tb_reversible_full_adder;
   reg A, B, Cin;
   wire Sum, Cout;
